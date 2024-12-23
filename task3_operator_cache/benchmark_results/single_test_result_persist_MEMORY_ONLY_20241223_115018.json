@@ -1,0 +1,8 @@
+{
+  "timestamp": "20241223_115018",
+  "duration": 3.351600170135498,
+  "success": false,
+  "application_id": null,
+  "stdout": "python3: can't open file '/usr/local/spark3.4.4/tpch_queries/tpch_query_q3_rdd_persist_MEMORY_ONLY.py': [Errno 2] No such file or directory\n",
+  "stderr": "24/12/23 11:50:21 INFO ShutdownHookManager: Shutdown hook called\n24/12/23 11:50:21 INFO ShutdownHookManager: Deleting directory /tmp/spark-b7a63874-d56f-4381-bd49-5112e73bab61\n"
+}

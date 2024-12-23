@@ -1,0 +1,12 @@
+Performance Metrics:
+--------------------------------------------------
+
+Data Size (MB):
+Customer: 27.08
+Orders: 206.90
+Lineitem: 1016.55
+
+Data Skew Analysis:
+Customer - Max/Min Ratio: 1.00
+Orders - Max/Min Ratio: 1.00
+Lineitem - Max/Min Ratio: 1.52
