@@ -68,7 +68,12 @@ tpch_query_q3_rdd.py
 ```
 
 ### 实验结果
+（1）基于 SparkRDD 实现TPC-H中复杂SQL
+（2）SQLite、SparkRDD和SparkSQL的性能对比
+（3）SparkRDD任务优化
 
+- 调整算子
+<img width="524" alt="{CC04EEC8-A8FC-42D0-8DBA-CFB15AB76865}" src="https://github.com/user-attachments/assets/dc264d82-b027-4b81-9151-9880bdf51581" />
 
 
 ## 实验反思
