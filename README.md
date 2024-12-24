@@ -41,11 +41,11 @@ Java：1.8.0_431
 （3）切换到 spark 目录下，`./sbin/start-all.sh` 启动 spark 服务；
 （4）在每个节点下使用 jps 查看节点的进程状态。
 
-![master_jps](C:\Users\DengSama\Desktop\Dase_Bigdata\imgs\master_jps.png)
+![master_jps](.\imgs\master_jps.png)
 
-![slave01_jps](C:\Users\DengSama\Desktop\Dase_Bigdata\imgs\slave01_jps.png)
+![slave01_jps](.\imgs\slave01_jps.png)
 
-![slave02_jps](C:\Users\DengSama\Desktop\Dase_Bigdata\imgs\slave02_jps.png)
+![slave02_jps](.\imgs\slave02_jps.png)
 
 这里将 master 设置为主节点和 master 节点，将 slave01 和 slave02 为 Worker 节点。
 
